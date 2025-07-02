@@ -14,7 +14,7 @@ This repository documents high-quality tutorials I’ve completed in areas such 
 
 #### 6. [Python: Create a ReAct Agent from Scratch — Alejandro AO](https://www.youtube.com/watch?v=hKVhRA9kfeM&t=3228s)
 
-#### 7. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
+#### 7. [The Missing Semester of Your CS Education - Elaine Mello, Jim Cain, and MIT Open Learning](https://missing.csail.mit.edu/)
 
 (To be continued)
 
