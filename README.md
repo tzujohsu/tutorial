@@ -1,6 +1,6 @@
-# 🚀 Programming Learning Tracker
+# 🚀 CS Learning Tracker
 
-This repository documents high-quality tutorials I’ve completed in areas such as full-stack development, data science, machine learning, and systems. 
+This repository documents high-quality tutorials I’ve completed in areas such as full-stack development, data science, machine learning, systems and more.
 
 #### 1. [Let's Reproduce GPT-2 (124M) — Andrej Karpathy](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
@@ -13,6 +13,8 @@ This repository documents high-quality tutorials I’ve completed in areas such 
 #### 5. [Complete Backend Course: Build & Deploy Production API — JavaScript Mastery](https://www.youtube.com/watch?v=rOpEN1JDaD0)
 
 #### 6. [Python: Create a ReAct Agent from Scratch — Alejandro AO](https://www.youtube.com/watch?v=hKVhRA9kfeM&t=3228s)
+
+#### 7. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
 
 (To be continued)
 
